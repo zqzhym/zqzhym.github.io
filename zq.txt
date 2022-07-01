@@ -1,7 +1,9 @@
 {
 //"spider":"clan://Download/tvbox/0701.jar",
 
-"spider":"http://gg.gg/0701jar",
+//"spider":"http://gg.gg/0701jar",
+
+"spider":"https://zqzhym.github.io/0701.jar",
 
 //"spider":"https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/bc.jar",
 
