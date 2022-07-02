@@ -1,8 +1,8 @@
 {
-"spider":"clan://Download/tvbox/0701.jar",
+//"spider":"clan://Download/tvbox/0701.jar",
 //"spider":"https://wp.wangshi520.com/down.php/205b85d949cc0113a39868fe787f9f03.jar",
 //"spider":"http://gg.gg/0701jar",
-//"spider":"https://zqzhym.github.io/0701.jar",
+"spider":"https://zqzhym.github.io/0701.jar",
 //"spider":"https://gitlab.com/zqzhym/tvbox/-/raw/main/0701.jar",
 
 //"spider":"https://raw.githubusercontents.com/Miel04/Miel06/master/TVbox/bc.jar",
