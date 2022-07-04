@@ -1,5 +1,5 @@
 {
-"spider":"https://zqzhym.github.io/0701.jar",
+"spider":"https://zqzhym.github.io/bc0701.jar",
 //"spider":"http://gg.gg/0701jar",
 //"spider":"clan://Download/tvbox/0701.jar",
 //"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/custom_spider.jar",
