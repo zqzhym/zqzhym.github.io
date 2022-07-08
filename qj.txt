@@ -1,7 +1,7 @@
 {
 //"spider":"http://gg.gg/tvboxjar",
 //"spider": "clan://download/tvbox/qjjh.jar",
-"spider":"https://zqzhym.github.io/qjjh.jar",
+"spider":"https://zqzhym.github.io/qjjh.jar;md5;f1119df4fc629e71103cc19e2c7b2338",
 
 
 
