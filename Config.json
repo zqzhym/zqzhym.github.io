@@ -106,7 +106,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "changeable": 0,
-      "ext":"file://tvfan/token.json",
+      "ext":"d551b2bb4aec4fed92af146b99b9355e",
       "timeout" : 30
     }
   ],
