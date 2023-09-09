@@ -1,5 +1,6 @@
 {
-  "spider": "./fm.jar",
+  "spider": "https://zqzhym.github.io/fm.jar",
+  //"spider": "./fm.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     
