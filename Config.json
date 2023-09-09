@@ -1,39 +1,39 @@
 {
-突耳"spider": "./fm.jar",
-按键移动焦点。或者，使用"wallpaper": 空,
+  "spider": "./fm.jar",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     
     {
-query为空
-query为空
-query为空
-query为空
-query为空
-query为空
-query为空
-query为空
-query为空
-查询为空
-查询为空
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
+      }
+    },
     
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
-查询为空
+    {
+      "key": "本地",
+      "name": "本地",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/alist.json"
+    },
+    {
       "key": "WebDAV",
       "name": "WebDAV",
       "type": 3,
@@ -91,22 +91,22 @@ query为空
       "changeable": 0
     },
     {
-      "key": "盤搜索",
-      "name": "盤搜索",
+      "key": "找資源",
+      "name": "找資源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "找資源"
+      "ext": "影視天下第一$$$test2$$$test2"
     },
     {
       "key": "push_agent",
-      "name""暴風"2：影視天下第一$$$$test2”,
+      "name": "推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e",
+      "ext":"file://tvfan/token.json",
       "timeout" : 30
     }
   ],
@@ -156,7 +156,7 @@ query为空
   ],
   "rules": [
     {
-      "name": "推送",
+      "name": "暴風",
       "hosts": [
         "bfzy"
       ],
