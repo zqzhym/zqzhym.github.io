@@ -54,7 +54,7 @@
       "api": "csp_Dovx",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e",
+      "ext":"d551b2bb4aec4fed92af146b99b9355e"
     },
     {
       "key": "易搜",
@@ -63,7 +63,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e",
+      "ext":"d551b2bb4aec4fed92af146b99b9355e"
     },
     {
       "key": "雲搜",
@@ -72,7 +72,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e",
+      "ext":"d551b2bb4aec4fed92af146b99b9355e"
     },
     {
       "key": "盤搜",
@@ -81,7 +81,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e",
+      "ext":"d551b2bb4aec4fed92af146b99b9355e"
     },
     {
       "key": "紙條搜",
@@ -90,7 +90,7 @@
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e",
+      "ext":"d551b2bb4aec4fed92af146b99b9355e"
     },
     {
       "key": "盤搜索",
@@ -99,7 +99,7 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e",
+      "ext":"d551b2bb4aec4fed92af146b99b9355e"
     },
     {
       "key": "找資源",
@@ -108,7 +108,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e",
+      "ext":"d551b2bb4aec4fed92af146b99b9355e"
     },
     {
       "key": "push_agent",
