@@ -1,5 +1,5 @@
 {
-  "spider": "https://jihulab.com/zqzhym/tv/-/raw/main/fm.jar",
+  "spider": "https://jihulab.com/zqzhym/tv/-/raw/main/fm.nogo.jar",
   //"spider": "https://ghproxy.com/raw.githubusercontent.com/zqzhym/Tv/main/fm.jar",
   //"spider": "https://zqzhym.github.io/fm.nogo.jar",
    //"spider": "./fm.jar",
@@ -43,7 +43,7 @@
             "quickSearch":1,
             "filterable":1,
             "changeable":0,
-            "timeout":60,
+            "timeout":600,
             "style":{ "type":"rect", "ratio":1.33 }           
     },
     {
@@ -64,6 +64,7 @@
       "type": 3,
       "api": "csp_Eighteen",
       "searchable": 1,
+      "timeout":600,
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -86,6 +87,7 @@
       "type": 3,
       "api": "csp_Miss",
       "searchable": 1,
+      "timeout":600,
       "style": {
         "type": "rect",
         "ratio": 1.777
