@@ -33,9 +33,11 @@
     "filterable":1,
     "timeout":600,
     "style":{ "type":"rect", "ratio":1.33 },
+      "jar":"https://jihulab.com/zqzhym/tv/-/raw/main/Yoursmile2.jar",
+    "ext":"https://jihulab.com/zqzhym/tv/-/raw/main/新香蕉中文字幕.json"
     //得先开代理进入,后续关代理播放更流畅。
-    "jar":"https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar",
-    "ext":"https://agit.ai/weigs/w/raw/branch/master/666/新香蕉中文字幕.json"
+   // "jar":"https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar",
+   // "ext":"https://agit.ai/weigs/w/raw/branch/master/666/新香蕉中文字幕.json"
     },
    
     {
