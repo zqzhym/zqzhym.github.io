@@ -15,7 +15,15 @@
       "searchable": 0,
       "changeable": 0
     },
-    
+    {
+      "key":"JAV名优",
+      "name":"JAV名优",
+      "type":0,
+      "api":"http://mygzycj.com/api.php?ac=list",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 1
+    },
     {"key":"csp_xBPQ_新香蕉中文字幕",
     "name":"新香蕉中文字幕",
     "type":3,
