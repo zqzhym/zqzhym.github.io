@@ -22,7 +22,9 @@
       "api":"http://mygzycj.com/api.php?ac=list",
       "searchable":1,
       "quickSearch":1,
-      "filterable": 1
+      "filterable": 1,
+      "timeout":600,
+      "style":{ "type":"rect", "ratio":1.33 }
     },
     {"key":"csp_xBPQ_新香蕉中文字幕",
     "name":"新香蕉中文字幕",
