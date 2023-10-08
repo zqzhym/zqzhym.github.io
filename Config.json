@@ -15,10 +15,9 @@
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
-      "ext": {
-        "token": "https://zqzhym.github.io/tk.txt",
-        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
-      }
+      "ext":"https://zqzhym.github.io/tk.txt",
+      "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
+      
     },
     
     {
