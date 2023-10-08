@@ -16,7 +16,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "token": "d551b2bb4aec4fed92af146b99b9355e",
+        "token": "https://zqzhym.github.io/tk.txt",
         "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
       }
     },
@@ -54,7 +54,7 @@
       "api": "csp_Dovx",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e"
+      "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
       "key": "易搜",
@@ -63,7 +63,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e"
+      "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
       "key": "雲搜",
@@ -72,7 +72,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e"
+      "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
       "key": "盤搜",
@@ -81,7 +81,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e"
+      "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
       "key": "紙條搜",
@@ -90,7 +90,7 @@
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e"
+      "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
       "key": "盤搜索",
@@ -99,7 +99,7 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e"
+      "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
       "key": "找資源",
@@ -108,7 +108,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e"
+      "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
       "key": "push_agent",
@@ -117,8 +117,8 @@
       "api": "csp_Push",
       "searchable": 1,
       "changeable": 0,
-      "ext":"d551b2bb4aec4fed92af146b99b9355e",
-      "timeout" : 30
+      "ext":"https://zqzhym.github.io/tk.txt",
+      "timeout" : 600
     }
   ],
   "doh": [
