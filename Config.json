@@ -110,16 +110,6 @@
       "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0,
-      "ext":"https://zqzhym.github.io/tk.txt",
-      "timeout" : 600
-    }
-    {
      "key":"csp_SeedHub",
      "name":"🧲SeedHub",
      "type":3,
@@ -130,6 +120,17 @@
      "filterable":1,
      "timeout" : 600
     },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "changeable": 0,
+      "ext":"https://zqzhym.github.io/tk.txt",
+      "timeout" : 600
+    }
+    
   ],
   "doh": [
     {
