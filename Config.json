@@ -1,5 +1,6 @@
 {
-    "spider": "https://jihulab.com/zqzhym/tv/-/raw/main/fm.jar",
+  //"spider": "https://jihulab.com/zqzhym/tv/-/raw/main/fm.jar",
+    "spider": "https://jihulab.com/zqzhym/tv/-/raw/main/fm.nogo.jar",
   //"spider": "https://ghproxy.com/raw.githubusercontent.com/zqzhym/Tv/main/fm.nogo.jar",
   //"spider": "https://ghproxy.com/raw.githubusercontent.com/zqzhym/Tv/main/fm.jar",
   //"spider": "https://zqzhym.github.io/fm.jar",
@@ -7,6 +8,18 @@
   //"spider": "./fm.nogo.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
+  {
+    "key":"Bdys_spider",
+    "name":"哔滴┃直连",
+    "api":"csp_Bdys01",
+    "type":3,
+    "filterable":1,
+    "quickSearch":1,
+    "searchable":1,
+    "timeout" : 600,
+    "ext":{"danmu":true},
+    "jar":"http://cdn.qiaoji8.com/fix1021.jar"
+  },
   
   {
    "key": "Ppxzy",
