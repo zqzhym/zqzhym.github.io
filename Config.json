@@ -18,7 +18,7 @@
     "searchable":1,
     "timeout" : 600,
     "ext":{"danmu":true},
-    "jar":"http://cdn.qiaoji8.com/fix1021.jar"
+    "jar":""
   },
   
   {
@@ -51,21 +51,11 @@
    "searchable":1,
    "quickSearch":1,
    "changeable":0,
-   "ext":"https://zqzhym.github.io/tk.txt$$$https://wogg.xyz/$$$1", 
+   "ext":"https://zqzhym.github.io/tk.txt$$$https://wogg.xyz/$$$null$$$1", 
    "timeout":600
   },
   
-  {
-    "key":"csp_Wobg",
-    "name":"玩偶表哥",
-    "type":3,
-    "api":"csp_Wobg",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":0,
-    "ext":"https://zqzhym.github.io/tk.txt$$$https://wobge.run.goorm.io$$$1",
-     "timeout":600
-  },
+ 
   
   {
       "key": "應用商店",
