@@ -29,7 +29,8 @@
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
-   "ext": "https://zqzhym.github.io/tk.txt$$$https://ppxzy.net/$$$null$$$1"
+   "ext": "https://zqzhym.github.io/tk.txt$$$https://ppxzy.net/$$$null$$$1",
+   "timeout" : 600
   },
   
   {
@@ -40,6 +41,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
+   "timeout" : 600,
    "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir$$$null$$$1"
    },
   
@@ -74,6 +76,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
+      "timeout" : 600,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json$$$1"
     },
   
@@ -98,7 +101,8 @@
      "playerType":2,
      "searchable":1,
      "quickSearch":1,
-     "filterable":1
+     "filterable":1,
+     "timeout" : 600
     },
   
     {
@@ -117,6 +121,7 @@
      "name":"阿里|影巢",
      "type":3,
      "api":"csp_Hdhive",
+     "timeout" : 600,
      "ext": "https://zqzhym.github.io/tk.txt"
      },
               
@@ -165,6 +170,7 @@
       "api": "csp_Dovx",
       "searchable": 1,
       "changeable": 0,
+      "timeout" : 600,
       "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
@@ -174,6 +180,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0,
+      "timeout" : 600,
       "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
@@ -183,6 +190,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "changeable": 0,
+      "timeout" : 600,
       "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
@@ -192,6 +200,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 0,
+      "timeout" : 600,
       "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
@@ -201,6 +210,7 @@
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0,
+      "timeout" : 600,
       "ext":"https://zqzhym.github.io/tk.txt"
     },
     {
@@ -210,6 +220,7 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
+      "timeout" : 600,
       "ext":"https://zqzhym.github.io/tk.txt    "
     },
     {
@@ -219,16 +230,10 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
+      "timeout" : 600,
       "ext":"https://zqzhym.github.io/tk.txt"
     },
-   
-    {
-    "key":"Hdhive",
-    "name":"阿里|影巢",
-    "type":3,
-    "api":"csp_Hdhive",
-    "ext":"https://zqzhym.github.io/tk.txt"
-    },
+ 
                 
     {
       "key": "push_agent",
