@@ -1,7 +1,7 @@
 {
 "token":"7f3726192e114027b0c750c8b60c7a67",
 "open_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlN2JiMjkyYzU4MzI0YzM5OTA2ZDk4NjY3OGYwNjA0ZSIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA3MTM1MTc0LCJpYXQiOjE2OTkzNTkxNzQsImp0aSI6IjgxMWY4NzU5M2E5MDQ2MTZhNDEwYmQ2ZGIzNTViOWY3In0.mzjsWvDMEWVB7gbNUJDDUSJzc5oFjwxbnPZEis1bl8isugKQMemxrQeOk79x7AVi4-mSEP3MYyYGOKGlzuP4CA",
-"thread_limit":32,
+"thread_limit":10,
 "vod_flags":"4k|4kz|auto",
 "aliproxy":"",
 "proxy":"",
