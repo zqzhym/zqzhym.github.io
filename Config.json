@@ -86,6 +86,20 @@
       "changeable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
     },
+
+{
+			"key": "獲取阿里云盤Token",
+			"name": "獲取阿里云盤Token",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"ext": "https://zqzhym.github.io/tk.txt"
+		},
     
     {
       "key": "荐片弹幕版",
