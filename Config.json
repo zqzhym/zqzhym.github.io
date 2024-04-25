@@ -1,0 +1,413 @@
+{
+    "spider": "https://jihulab.com/zqzhym/tv/-/raw/main/pg.jar",
+  //"spider": "https://jihulab.com/zqzhym/tv/-/raw/main/fm.nogo.jar",
+  //"spider": "https://ghproxy.com/raw.githubusercontent.com/zqzhym/Tv/main/fm.nogo.jar",
+  //"spider": "https://ghproxy.com/raw.githubusercontent.com/zqzhym/Tv/main/fm.jar",
+  //"spider": "https://zqzhym.github.io/fm.jar",
+  //"spider": "./fm.jar",
+  //"spider": "./fm.nogo.jar",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "sites": [
+      {
+                        "key": "Bdys_spider/pg",
+                        "name": "哔滴┃直连|pg",
+                        "api": "csp_Bdys01",
+                        "type": 3,
+                        "filterable": 1,
+                        "quickSearch": 1,
+                        "searchable": 1,
+                        "ext": "https://www.bdys03.com/$$$null$$$1"
+                },
+	  {
+			"key": "tvbsk",
+			"name": "TVB云播┃App",
+			"type": 3,
+			"api": "csp_Skapp",
+		
+			"ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1"
+		},
+	  {
+			"key": "天天",
+			"name": "天天┃App",
+			"type": 3,
+			"api": "csp_TTian",
+			"changeable": 0,
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
+		},
+
+	  {
+			"key": "996影院",
+			"name": "996影院",
+			"type": 3,
+			"api": "csp_Cs1369",
+			"searchable": 1,
+			"changeable": 1
+		},
+  {
+			"key": "酷狗",
+			"name": "酷狗",
+			"type": 3,
+			"api": "csp_Kugou",
+			"searchable": 0,
+			"changeable": 0
+  },
+  {
+    "key":"Bdys_spider",
+    "name":"哔滴┃直连",
+    "api":"csp_Bdys01",
+    "type":3,
+    "filterable":1,
+    "quickSearch":1,
+    "searchable":1,
+    "timeout" : 600,
+    "ext":{"danmu":true},
+    "jar":"https://jihulab.com/zqzhym/tv/-/raw/main/bdys.jar"
+  },
+  
+  {"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"},
+  
+  {
+   "key": "Ppxzy",
+   "name": "皮皮虾|网盘♻️",
+   "type": 3,
+   "api": "csp_Ppxzy",
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "ext": "https://zqzhym.github.io/tk.txt$$$https://ppxzy.net/$$$null$$$1",
+   "timeout" : 600
+  },
+  
+  {
+   "key": "Mino",
+   "name": "Mino┃App",
+   "type": 3,
+   "api": "csp_AppMao",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "timeout" : 600,
+   "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir$$$null$$$1"
+   },
+  
+  {
+   "key":"csp_WoGG",
+   "name":"玩偶哥哥",
+   "type":3,
+   "api":"csp_Wogg",
+   "searchable":1,
+   "quickSearch":1,
+   "changeable":0,
+   "ext":"https://zqzhym.github.io/tk.txt$$$https://wogg.xyz/$$$null$$$1", 
+   "timeout":600
+  },
+  
+ 
+  
+  {
+      "key": "應用商店",
+      "name": "應用商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+    },
+
+{
+			"key": "獲取阿里云盤Token",
+			"name": "獲取阿里云盤Token",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"ext": "https://zqzhym.github.io/tk.txt"
+		},
+    
+    {
+      "key": "荐片弹幕版",
+      "name": "荐片弹幕版",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout" : 600,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json$$$1"
+    },
+  
+  
+  
+    {
+      "key":"团长资源",
+      "name":"团长资源|网盘",
+      "type":3,
+      "api":"csp_TZFile",
+      "ext":"https://zqzhym.github.io/tk.txt",
+      "quickSearch":1,
+      "changeable":1, 
+      "timeout":600
+     },
+  
+    {
+     "key":"csp_SeedHub",
+     "name":"🧲SeedHub",
+     "type":3,
+     "api":"csp_SeedHub",
+     
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "timeout" : 600
+    },
+  
+    {
+     "key":"4KHDR",
+     "name":"4KHDR|网盘",
+     "type":3,
+     "api":"csp_FourKHDR",
+     "ext":"https://zqzhym.github.io/tk.txt$$$./4khdr.txt", 
+     "quickSearch":1,
+     "changeable":1, 
+     "timeout":600
+    },
+    
+    {
+     "key":"Hdhive",
+     "name":"阿里|影巢",
+     "type":3,
+     "api":"csp_Hdhive",
+     "timeout" : 600,
+     "ext": "https://zqzhym.github.io/tk.txt$$$null$$$1"
+     },
+              
+     {
+      "key":"校长影视",
+      "name":"校长影视|网盘",
+      "type":3,
+      "api":"csp_XiaoZhang",
+      "ext":"https://zqzhym.github.io/tk.txt",
+      "quickSearch":1, 
+      "changeable":1,
+      "timeout":600
+     },
+  
+    
+    {
+      "key": "本地",
+      "name": "本地",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/alist.json"
+    },
+    {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/webdav.json"
+    },
+    {
+      "key": "七夜",
+      "name": "七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "changeable": 0,
+      "timeout" : 600,
+      "ext":"https://zqzhym.github.io/tk.txt"
+    },
+    {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "changeable": 0,
+      "timeout" : 600,
+      "ext":"https://zqzhym.github.io/tk.txt"
+    },
+    {
+      "key": "雲搜",
+      "name": "雲搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "changeable": 0,
+      "timeout" : 600,
+      "ext":"https://zqzhym.github.io/tk.txt"
+    },
+    {
+      "key": "盤搜",
+      "name": "盤搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 0,
+      "timeout" : 600,
+      "ext":"https://zqzhym.github.io/tk.txt"
+    },
+    {
+      "key": "紙條搜",
+      "name": "紙條搜",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "changeable": 0,
+      "timeout" : 600,
+      "ext":"https://zqzhym.github.io/tk.txt"
+    },
+    {
+      "key": "盤搜索",
+      "name": "盤搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 0,
+      "timeout" : 600,
+      "ext":"https://zqzhym.github.io/tk.txt    "
+    },
+    {
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "changeable": 0,
+      "timeout" : 600,
+      "ext":"https://zqzhym.github.io/tk.txt"
+    },
+ 
+                
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "changeable": 0,
+      "ext":"https://zqzhym.github.io/tk.txt",
+      "timeout" : 600
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "暴風",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "星星",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "量子",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    }
+  ]
+}
