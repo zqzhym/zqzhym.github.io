@@ -1,11 +1,8 @@
 {
-    "spider": "https://jihulab.com/zqzhym/tv/-/raw/main/pg.jar",
-  //"spider": "https://jihulab.com/zqzhym/tv/-/raw/main/fm.nogo.jar",
-  //"spider": "https://ghproxy.com/raw.githubusercontent.com/zqzhym/Tv/main/fm.nogo.jar",
-  //"spider": "https://ghproxy.com/raw.githubusercontent.com/zqzhym/Tv/main/fm.jar",
-  //"spider": "https://zqzhym.github.io/fm.jar",
-  //"spider": "./fm.jar",
-  //"spider": "./fm.nogo.jar",
+
+  //"spider": "https://zqzhym.github.io/pg.jar",
+  "spider": "./pg.jar",
+  
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
       {
