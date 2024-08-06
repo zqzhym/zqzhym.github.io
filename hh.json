@@ -15,6 +15,16 @@
       "searchable": 0,
       "changeable": 0
     },
+    {"key":"Supjav","name":"Supjav","type":3,"api":"csp_Supjav","searchable":1},
+    
+    {"key":"csp_Netflav","name":"Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
+{"key":"Taohuazu","name":"桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://thze.cc/","ext":"http://127.0.0.1:9978/file/TV/token.json"},
+{"key":"SeHuaTang","name":"色花糖","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
+{"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
+{"key":"Cable","name":"CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
+{"key": "AvTime","name": "AvTime","type": 3,"api": "csp_AvTime","searchable": 1,"changeable": 0},
+{"key": "Top888","name": "Top888","type": 3,"api": "csp_Top888","searchable": 1,"changeable": 0},
+    
     {
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
